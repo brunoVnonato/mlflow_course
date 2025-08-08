@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/520756653729377460/3a81366e8fb548118e44f3f8232d7ed7/artifacts
+end_time: 1754617255367
+entry_point_name: ''
+experiment_id: '520756653729377460'
+lifecycle_stage: active
+run_id: 3a81366e8fb548118e44f3f8232d7ed7
+run_name: bold-cub-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754617253981
+status: 3
+tags: []
+user_id: brunovn

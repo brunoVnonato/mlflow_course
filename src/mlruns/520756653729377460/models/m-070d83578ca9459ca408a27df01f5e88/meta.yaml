@@ -1,0 +1,10 @@
+artifact_location: file:///home/brunovn/Projects/mlflow_course/src/mlruns/520756653729377460/models/m-070d83578ca9459ca408a27df01f5e88/artifacts
+creation_timestamp: 1754613968592
+experiment_id: '520756653729377460'
+last_updated_timestamp: 1754613969996
+model_id: m-070d83578ca9459ca408a27df01f5e88
+model_type: null
+name: mymodel
+source_run_id: 2fd38a669fb44c20a810d91cfb19e7cb
+status: 2
+status_message: null

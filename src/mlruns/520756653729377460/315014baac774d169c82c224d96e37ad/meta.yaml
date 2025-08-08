@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/520756653729377460/315014baac774d169c82c224d96e37ad/artifacts
+end_time: 1754617139974
+entry_point_name: ''
+experiment_id: '520756653729377460'
+lifecycle_stage: active
+run_id: 315014baac774d169c82c224d96e37ad
+run_name: enthused-whale-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754617138488
+status: 3
+tags: []
+user_id: brunovn

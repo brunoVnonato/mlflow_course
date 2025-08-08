@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/520756653729377460/2fd38a669fb44c20a810d91cfb19e7cb/artifacts
+end_time: 1754613970006
+entry_point_name: ''
+experiment_id: '520756653729377460'
+lifecycle_stage: active
+run_id: 2fd38a669fb44c20a810d91cfb19e7cb
+run_name: rebellious-snail-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754613968575
+status: 3
+tags: []
+user_id: brunovn
