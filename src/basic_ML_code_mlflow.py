@@ -52,18 +52,9 @@ if __name__ == "__main__":
     mlflow.set_tracking_uri(uri="./mytracks")
 
     print(f"The set tracking uri is: {mlflow.get_tracking_uri()}")
-    # exp = mlflow.set_experiment(experiment_name="experiment_1")
+    exp = mlflow.set_experiment(experiment_name="experiment_1")
 
-    try:
-        exp_id = mlflow.create_experiment(
-            name="experiment_brunovn", tags={"version": "v1", "gitsha": "ushuihsu"}
-        )
-    except Exception as e:
-        print(f"{e}")
-    finally:
-        get_exp = mlflow.get_experiment("experiment_brunovn")
-
-    with mlflow.start_run(experiment_id=get_exp.experiment_id):
+    with mlflow.start_run(experiment_id=exp.experiment_id):
         lr = ElasticNet(alpha=alpha, l1_ratio=l1_ratio, random_state=42)
         lr.fit(train_x, train_y)
 
