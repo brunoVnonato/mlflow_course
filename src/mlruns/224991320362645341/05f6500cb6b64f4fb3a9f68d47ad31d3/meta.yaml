@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/224991320362645341/05f6500cb6b64f4fb3a9f68d47ad31d3/artifacts
+end_time: 1754775366710
+entry_point_name: ''
+experiment_id: '224991320362645341'
+lifecycle_stage: active
+run_id: 05f6500cb6b64f4fb3a9f68d47ad31d3
+run_name: burly-shoat-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754775366404
+status: 3
+tags: []
+user_id: brunovn

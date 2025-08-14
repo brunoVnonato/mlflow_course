@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/991631197299943763/d0dfcce13e634f638cd64e37addd79ca/artifacts
+end_time: 1754710739152
+entry_point_name: ''
+experiment_id: '991631197299943763'
+lifecycle_stage: active
+run_id: d0dfcce13e634f638cd64e37addd79ca
+run_name: capricious-bear-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754710737597
+status: 3
+tags: []
+user_id: brunovn

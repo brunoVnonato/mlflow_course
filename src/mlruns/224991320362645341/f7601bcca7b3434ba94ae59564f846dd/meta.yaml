@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/224991320362645341/f7601bcca7b3434ba94ae59564f846dd/artifacts
+end_time: 1754775585966
+entry_point_name: ''
+experiment_id: '224991320362645341'
+lifecycle_stage: active
+run_id: f7601bcca7b3434ba94ae59564f846dd
+run_name: efficient-sloth-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754775585710
+status: 3
+tags: []
+user_id: brunovn

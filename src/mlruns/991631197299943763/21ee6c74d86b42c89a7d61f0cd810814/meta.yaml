@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/991631197299943763/21ee6c74d86b42c89a7d61f0cd810814/artifacts
+end_time: 1754710001476
+entry_point_name: ''
+experiment_id: '991631197299943763'
+lifecycle_stage: active
+run_id: 21ee6c74d86b42c89a7d61f0cd810814
+run_name: unleashed-hog-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754710000007
+status: 3
+tags: []
+user_id: brunovn

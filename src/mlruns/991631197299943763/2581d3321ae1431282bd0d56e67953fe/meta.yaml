@@ -1,0 +1,14 @@
+artifact_uri: file:///home/brunovn/Projects/mlflow_course/src/mlruns/991631197299943763/2581d3321ae1431282bd0d56e67953fe/artifacts
+end_time: 1754710709595
+entry_point_name: ''
+experiment_id: '991631197299943763'
+lifecycle_stage: active
+run_id: 2581d3321ae1431282bd0d56e67953fe
+run_name: nosy-grub-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754710709403
+status: 3
+tags: []
+user_id: brunovn

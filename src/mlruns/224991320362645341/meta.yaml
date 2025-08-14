@@ -1,0 +1,6 @@
+artifact_location: file:///home/brunovn/Projects/mlflow_course/src/mlruns/224991320362645341
+creation_time: 1754775366372
+experiment_id: '224991320362645341'
+last_update_time: 1754775366372
+lifecycle_stage: active
+name: experiment_custom_sklearn
